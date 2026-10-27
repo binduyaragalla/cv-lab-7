@@ -19,7 +19,7 @@ To perform image filtering using a 3×3 convolution kernel in OpenCV and display
 
 ## 4. Input Image
 
-/content/spy x family.jpg
+![Input Image](spy x family.jpg)
 
 The input image used in this experiment is `spy x family.jpg`. The image is converted into grayscale before applying the filtering operation.
 
@@ -93,7 +93,8 @@ The output displays two images:
   
 The filtered image highlights vertical intensity changes and edge features.
 
-![Output](output.png)
+![Output](spy x family.png)
+![Output](spyxfamily.png)
 
 ## 9. Result
 Image filtering was successfully performed on the grayscale image using a 3×3 convolution kernel and the OpenCV library.
