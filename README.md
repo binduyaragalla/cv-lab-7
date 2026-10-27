@@ -19,7 +19,7 @@ To perform image filtering using a 3×3 convolution kernel in OpenCV and display
 
 ## 4. Input Image
 
-![Input Image](<img width="596" height="335" alt="spy x family" src="https://github.com/user-attachments/assets/baee062d-5e3c-486b-ad24-d01f9fb75894" />
+(<img width="596" height="335" alt="spy x family" src="https://github.com/user-attachments/assets/baee062d-5e3c-486b-ad24-d01f9fb75894" />
 )
 
 The input image used in this experiment is `spy x family.jpg`. The image is converted into grayscale before applying the filtering operation.
@@ -94,9 +94,9 @@ The output displays two images:
   
 The filtered image highlights vertical intensity changes and edge features.
 
-![Output](<img width="515" height="319" alt="spy x family" src="https://github.com/user-attachments/assets/18f290da-7e70-4677-8406-86b0aec5a349" />
+(<img width="515" height="319" alt="spy x family" src="https://github.com/user-attachments/assets/18f290da-7e70-4677-8406-86b0aec5a349" />
 )
-![Output](<img width="515" height="320" alt="spyxfamily" src="https://github.com/user-attachments/assets/55a4cf2f-33d3-42c1-990f-d8ecc04da1d7" />
+(<img width="515" height="320" alt="spyxfamily" src="https://github.com/user-attachments/assets/55a4cf2f-33d3-42c1-990f-d8ecc04da1d7" />
 )
 
 ## 9. Result
